@@ -1,0 +1,21 @@
+body{
+    background-image: url(../img/homepage.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    
+    background-size: 2000px 1000px;
+    background-position: center;
+    background-repeat: repeat;
+}
+
+h2{
+    text-align: center; 
+    color:white;
+    font-style: italic;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#movebutton{
+    margin: 8px auto;
+}
